@@ -1,5 +1,3 @@
-Forked By jwiberg
-
 ## Change Log
 
 ### Beta 3 Changes
